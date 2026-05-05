@@ -1,3 +1,11 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #c6b8b878;
+}
+
+nav {
+    background-color: #666565;
+}
+
+section {
+    margin: 150px;
 }
