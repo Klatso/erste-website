@@ -1,1 +1,1 @@
-Domain: klaaswebsite.netlify.app
+Domain: klaaswebseite.netlify.app
