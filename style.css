@@ -1,12 +1,55 @@
-/*body {
-    background-color: #c6b8b878;
+body {
+    background-color: #ffffff;
 }
 
 nav {
-    background-color: #666565;
+    background-color: #b9ecbe;
 }
 
-section {
-    margin: 150px;
+table {
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+    margin: 0 5%;
 }
-*/
+
+td,
+th {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+th {
+    background-color: #31ab1cca;
+    color: #ffffff;
+}
+
+tr:nth-child(even) {
+    background-color: #b3efa6ab;
+}
+
+tr:nth-child(odd) {
+    background-color: #d1eebc81;
+}
+
+.bild-kader {
+    width: 45px
+}
+
+p,
+a {
+    padding-left: 5%;
+}
+
+h1,
+h2 {
+    padding-left: 5%;
+}
+
+.Wappen-Bild {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+    padding-left: 0%;
+}
